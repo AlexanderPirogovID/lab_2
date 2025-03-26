@@ -1,0 +1,4 @@
+Sum: 7835
+Arithmetic mean: 1305.8333333333333
+Maximum: 4257
+Minimum: 5
